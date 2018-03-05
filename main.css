@@ -1,0 +1,70 @@
+body{
+	background: white;
+	margin: 0;
+}
+
+header {
+	background: #;
+	color:black;
+	padding: 55px 15px 0 15px
+}
+h1{
+font-family: 'Cabin Condensed', sans-serif;
+}
+header h1{
+	font-family: 'Bungee Hairline', cursive;
+
+	margin: 0;
+	display: inline;
+}
+
+nav ul{
+	margin: 0;
+	padding: 0 0 0 15px;
+	display: inline;
+}
+
+nav ul li{
+	background: black;
+	color:white;
+	display: inline-block;
+	list-style-type: none;
+	padding: 5px 15px;
+	float: right;
+	padding: -55px
+}
+a:hover{
+	text-decoration: line-through;
+	color: white;
+}
+nav ul li a {
+	color:;
+}
+nav a{
+	
+	display: inline-block;
+	padding: 10px 20px;
+	text-decoration: none;
+	width: 100px;
+	text-transform: uppercase;
+	color: #F73859;
+	border-radius: 5px;
+	float: left;
+}
+
+.row{
+	clear: both;
+}
+
+.col{
+	background: black;
+	color:white;
+	padding: 10px .5px;
+	float: left;
+	margin: 1%;
+	width: 31%;
+}
+
+footer{
+	clear:both;
+} 
